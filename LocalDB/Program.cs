@@ -4,7 +4,7 @@ using Microsoft.Extensions.Configuration;
 
 try
 {
-    // ---------------------
+    // --------------------
     // Get ConnectionString
     // --------------------
     var configuration = new ConfigurationBuilder()
